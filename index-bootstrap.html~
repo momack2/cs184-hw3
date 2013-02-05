@@ -11,8 +11,6 @@
 
 
 <body>
-
-<<<<<<< HEAD
 <div class="container-fluid">
 	<div class="row-fluid">
 		<div class="span3">
@@ -95,51 +93,6 @@
 <br />
 
 <!--<video src="http://www.youtube.com/embed/uB6BdZ7_KBA">Sorry, your browser doesn't support embedded videos...</video> -->
-=======
-<header>
-	<hgroup>
-		<h1>Header 1</h1>
-		<h2>Header 2</h2>
-	</hgroup>
-	<address> this is an address</address>
-</header>
-
-
-<table>
-	<caption>table!</caption>
-	<tr>
-		<td class="one">hey</td>
-		<td class="two">sup?</td>
-	</tr>
-</table>
-
-<section>
-  <a>section 1</a>
-  <nav>nav <a href="#">links</a></nav>
-  <article>article</article>
-	<aside>aside</aside>
-	<p>this is a paragraph</p>
-	<ol>
-		<li>first</li>
-		<li>second</li>
-	</ol>
-	<ul>
-		<li>blah</li>
-		<li>blahhh</li>
-	</ul>
-</section>
-
-<section>
-	<figure><img src="health.jpg" height="154" width="174"></img></figure>
-	<figcaption>these are delicious muffins!</figcaption>
-
-	<video src="http://www.youtube.com/embed/uB6BdZ7_KBA">Sorry, your browser doesn't support embedded videos...</video>
-
-	<div>This is a div in a <em>section!</em></div>
-
-	<iframe width="560" height="315" src="http://www.youtube.com/embed/uB6BdZ7_KBA" frameborder="0" allowfullscreen></iframe>
-</section>
->>>>>>> cfba8c299f9da573b6c041d57d013af203870c2b
 
 </body>
 </html>
